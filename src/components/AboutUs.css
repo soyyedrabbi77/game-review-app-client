@@ -1,0 +1,125 @@
+/* Container for About Us page */
+.about-us {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Title styles */
+.about-us-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* General text styling */
+.about-us-description,
+.about-us-text {
+  font-size: 1.125rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+/* Subheading styles */
+.about-us-subheading {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-decoration: underline;
+}
+
+/* List styling for the team */
+.team-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+
+.team-list li {
+  font-size: 1.125rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.team-list li strong {
+  color: #1abc9c;
+}
+
+/* Links styling */
+.about-us-link {
+  color: #1abc9c;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.about-us-link:hover {
+  color: #16a085;
+}
+
+/* Social media links styling */
+.social-links {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.social-links li {
+  font-size: 1.125rem;
+}
+
+.social-links a {
+  display: block;
+  padding: 10px 20px;
+  background-color: #2c3e50;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.social-links a:hover {
+  background-color: #34495e;
+  transform: translateY(-2px);
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .about-us {
+    padding: 20px;
+  }
+
+  .about-us-title {
+    font-size: 2rem;
+  }
+
+  .about-us-description,
+  .about-us-text,
+  .about-us-subheading {
+    font-size: 1rem;
+  }
+
+  .team-list li {
+    font-size: 1rem;
+  }
+
+  .social-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .social-links a {
+    margin: 5px 0;
+  }
+}

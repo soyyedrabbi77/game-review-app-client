@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Action-Adventure",
+      "rating": 9.7,
+      "review": "A breathtaking open-world game with endless exploration.",
+      "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaBreathOfTheWild.jpg",
+      "year": 2017
+    },
+    {
+      "id": 2,
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "rating": 9.5,
+      "review": "An epic story and incredible visuals make this a masterpiece.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorz9y6_Y2irdeUqov-Zbvk8FcftUR-UdyJg&s",
+      "year": 2015
+    },
+    {
+      "id": 3,
+      "title": "God of War",
+      "genre": "Action",
+      "rating": 9.8,
+      "review": "An emotional journey with fantastic combat mechanics.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5YTA1ZmUtYzVlNC00YjI2LWJhYjgtNWE4MjY2OWEzMGQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "year": 2018
+    },
+    {
+      "id": 4,
+      "title": "Red Dead Redemption 2",
+      "genre": "Action-Adventure",
+      "rating": 9.6,
+      "review": "A cinematic experience in the Wild West.",
+      "image": "https://m.media-amazon.com/images/I/81dKP+iFloL._AC_UF894,1000_QL80_.jpg",
+      "year": 2018
+    },
+    {
+      "id": 5,
+      "title": "Hollow Knight",
+      "genre": "Metroidvania",
+      "rating": 9.4,
+      "review": "A beautifully crafted indie game with challenging gameplay.",
+      "image": "https://image.api.playstation.com/cdn/EP1805/CUSA13285_00/DmwPWlU0468FbsjrtI92FhQz1xBYMoog.png",
+      "year": 2017
+    },
+    {
+      "id": 6,
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "rating": 9.3,
+      "review": "Unleash your creativity in an endless blocky universe.",
+      "image": "https://www.esrb.org/wp-content/uploads/2022/11/Minecraft-FEATURED-1024x576-_-R.jpg",
+      "year": 2011
+    },
+    {
+      "id": 7,
+      "title": "Overwatch",
+      "genre": "Shooter",
+      "rating": 8.9,
+      "review": "A team-based multiplayer game with vibrant characters.",
+      "image": "https://www.hotspawn.com/wp-content/uploads/2019/06/Heroes-of-Overwatch-e1560548071349-1.jpg",
+      "year": 2016
+    },
+    {
+      "id": 8,
+      "title": "Elden Ring",
+      "genre": "RPG",
+      "rating": 9.7,
+      "review": "A dark and captivating world with intricate mechanics.",
+      "image": "https://soundtrackfest.com/wp-content/uploads/2024/01/EldenRing-Tour2024-Poster.jpg",
+      "year": 2022
+    },
+    {
+      "id": 9,
+      "title": "Among Us",
+      "genre": "Party",
+      "rating": 8.5,
+      "review": "A fun and chaotic game to play with friends.",
+      "image": "https://assets-prd.ignimgs.com/2020/12/15/among-us-button-fin-1608054673652.jpg",
+      "year": 2018
+    },
+    {
+      "id": 10,
+      "title": "Dark Souls 3",
+      "genre": "RPG",
+      "rating": 9.1,
+      "review": "A challenging and rewarding experience for hardcore gamers.",
+      "image": "https://m.media-amazon.com/images/I/91QuVskqO1L._AC_UF1000,1000_QL80_.jpg",
+      "year": 2016
+    }
+  ]
+  

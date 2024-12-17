@@ -1,0 +1,6 @@
+/* Active NavLink */
+.navbar .menu li a.active {
+  background-color: purple;
+  font-weight: 700;
+  color: white;
+}
